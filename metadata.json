@@ -1,0 +1,6 @@
+{
+  "name": "Ceylon Luxury Trails",
+  "description": "Premium travel agency homepage for Ceylon Luxury Trails featuring stunning destination galleries, customized tour services, and WhatsApp-integrated booking/consultation portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
